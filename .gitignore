@@ -1,0 +1,17 @@
+# Claude config and files
+.claude/
+.claude.json
+.claudeignore
+*.claude
+CLAUDE.md
+CLAUDE.local.md
+*CLAUDE.md
+*CLAUDE.local.md
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Binaries
+atlassian-mcp-bin
